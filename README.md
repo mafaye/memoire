@@ -7,4 +7,3 @@ Used Technologies :
 
 JDK 1.6.0_31, Spring 3.1.1, JSF 2.1, Hibernate 4.1.0, Primefaces 3.1.1, MySQL Connector 5.1.17, MySQL 5.5.8, c3p0 0.9.1.2,
 Tomcat 7.0 and Maven 3.0.2"# memoire" 
-"# memoire" 
